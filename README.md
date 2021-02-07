@@ -1,22 +1,5 @@
-![Image](https://i.imgur.com/0N7NhR5.png)
+![Image](screen.png)
 
 # Dev Finance
 
-Projeto fornecido pela RocketSeat pelo professor Mayk Brito, no intuito de ensinar os fundamentos básicos ao avançados da programação.
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### Bibliotecas
-
-- styled-components
-- react-icons
+Projeto fornecido pela RocketSeat pelo professor Mayk Brito, no intuito de ensinar os fundamentos básicos ao avançados da programação. Utilizando o puro JavaScript conjunto de HTLM5/CSS3. Essa aplicação realiza a somatoria de ganhos e gastos, gerando uma tabela com o valores, seguidos de nome, valor, data. Dando a possibilidade adicionar novos valores e podendo remove-los, salvando via storage.
